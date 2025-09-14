@@ -1,7 +1,5 @@
 # Mean-Variance-Standard Deviation Calculator
 
-# Mean-Variance-Standard Deviation Calculator
-
 This project is a Python-based calculator that computes the mean, variance, standard deviation, max, min, and sum for a 3x3 matrix formed from a list of 9 numbers. It processes the data along rows (axis 1), columns (axis 0), and the entire flattened array. The project includes unit tests and is designed for development and testing.
 
 ## Project Structure
