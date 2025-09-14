@@ -1,7 +1,4 @@
 import numpy as np
-
-import numpy as np
-
 def calculate(list):
     # Check if the input list has exactly 9 elements
     if len(list) != 9:
