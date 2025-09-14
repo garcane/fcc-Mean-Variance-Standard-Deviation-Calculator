@@ -11,8 +11,8 @@ This project is a Python-based calculator that computes the mean, variance, stan
 
 ## Requirements
 
-- Python 3.6+
-- NumPy (version 1.18.5 as specified)
+- Python 13.3.5
+- NumPy (version 2.3.3 as specified)
 
 Install dependencies:
 ```
